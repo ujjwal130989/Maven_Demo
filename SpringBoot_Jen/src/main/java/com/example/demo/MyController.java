@@ -9,7 +9,7 @@ public class MyController {
 	
 	@GetMapping("/hello")
 	public String messages() {
-		return "welcome to deployment";
+		return "welcome to deployment Done";
 	}
 	
 }
